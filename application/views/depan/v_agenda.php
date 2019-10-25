@@ -94,11 +94,10 @@
                                 <a class="nav-link" href="<?php echo site_url('contact');?>">Contact</a>
                               </li>
                               <li class="nav-item">
-<<<<<<< HEAD
-                                <a class="nav-link" href="<?php echo site_url('register');?>">Register</a>
-=======
                                 <a class="nav-link" href="<?php echo site_url('login');?>">Login</a>
->>>>>>> update agenda.php
+                              </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="<?php echo site_url('register');?>">Register</a>
                               </li>
                         </ul>
                   </div>
