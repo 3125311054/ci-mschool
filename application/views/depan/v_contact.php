@@ -91,6 +91,11 @@
                               <li class="nav-item">
                                 <a class="nav-link" href="<?php echo site_url('contact');?>">Contact</a>
                               </li>
+                              <li class="nav-item">
+                                <a class="nav-link" href="<?php echo site_url('login');?>">Login</a>
+                              </li>
+                              
+
                         </ul>
                   </div>
                 </nav>
